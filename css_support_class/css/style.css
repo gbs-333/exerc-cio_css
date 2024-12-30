@@ -86,3 +86,24 @@ section h2, .articles article{
 #economia .articles article a{
     background-color: #ff9f1a;
 }
+#entre{
+    background-color: rgb(95, 31, 31);
+}
+#entre .articles article a{
+    background-color: red;
+}
+#entre h2,
+#entre .articles article header,
+#entre .articles article h3,
+#entre .articles article p{
+    color: #fff;
+}
+#tec{
+    background-color: rgb(71, 71, 207);
+}
+#tec h2,
+#tec .articles article header,
+#tec .articles article h3,
+#tec .articles article p{
+    color: #fff;
+}
